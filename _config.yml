@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://cusabiotech.github.io
+title: Cusabio
+email: cusabiotech@gmail.com
+author: cusabiotech
+description: My blog is gonna share you with biotechnology and related news.
+paginate: 5
+google_analytics: 
